@@ -458,6 +458,9 @@ body{
 .footer .footer-main .links li{
     margin:15px;
 }
+.footer .footer-main .links li a{
+    color: #fff;
+}
 .footer .footer-main .links li a:visited{
     color: #fff;
 }
